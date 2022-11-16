@@ -2,7 +2,7 @@
 
 # Merge Super: Hedgehog Fight
 
-- **_Engine/Framework/Library_**: Cocos Creater 3.x / Cannon.Js
+- **_Engine/Framework/Library_**: Cocos Creator 3.x / Cannon.Js
 - **_Ad Network_**: full network
 - _Single HTML file_
 
